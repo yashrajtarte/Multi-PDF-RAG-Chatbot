@@ -2,6 +2,9 @@
 
 This project is a Retrieval-Augmented Generation (RAG) based conversational AI application built using Streamlit. The application allows users to upload multiple PDF files, process them, and interact with the content through a chatbot interface. The chatbot uses advanced natural language processing techniques to understand and respond to user queries based on the content of the uploaded PDFs.
 
+![final](https://github.com/yashrajtarte/Multi-PDF-RAG-Chatbot/assets/91187090/bc3d7e7f-ada2-4fd9-ae4d-c50723efd171)
+
+
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
